@@ -1,42 +1,50 @@
-<h1 align="center">
-  Kinshuk Panchakarla
-</h1>
-
-<h3 align="center">
-  Building AI from first principles.
-</h3>
+<h1 align="center">Hi, I'm Kinshuk 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=0A66FF&center=true&vCenter=true&width=500&lines=Learning+Neural+Networks;Understanding+LLMs;Exploring+Machine+Learning;Building+AI+Projects" />
+A 10th grade student at Cavelero Mid High who loves coding and is obsessed with understanding how AI actually works — not just using it.
 </p>
 
 <p align="center">
   <a href="mailto:kinshukp07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kinshukp07%40gmail.com-0A66FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-kinshukp07%40gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
   </a>
   <a href="https://instagram.com/kinshukp07">
-    <img src="https://img.shields.io/badge/Instagram-kinshukp07-0A66FF?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-%40kinshukp07-1DA1F2?style=flat-square&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram" />
   </a>
 </p>
 
 ---
 
-## About Me
+## 🧠 About Me
 
-I'm Kinshuk, a student developer interested in understanding how artificial intelligence works at a fundamental level.
+I'm a high school student learning to build things in Python, C++, and Java, and slowly working my way into machine learning from the ground up.
 
-Instead of treating AI as a black box, I'm focused on learning the concepts behind modern systems — from neural networks and CNNs to transformers, tokenization, reinforcement learning, and large language models.
-
-I enjoy building projects, experimenting with ideas, and understanding the mathematics and algorithms that make intelligent systems possible.
+### 🔭 Currently Working On
+- Building neural networks from scratch (just math + NumPy, no frameworks)
+- Learning how LLMs actually work — tokenization, attention, transformer architecture
+- Experimenting with reinforcement learning basics
+- Building computer vision projects / image classifiers
+- Reading through AI concepts and rebuilding them myself to actually understand them
 
 ---
 
-## Currently Exploring
+## ⚡ Interests
 
-```text
-🧠 Large Language Models
-⚡ Neural Networks
-👁️ Convolutional Neural Networks
-🔤 Tokenization
-🤖 Reinforcement Learning
-🔎 Transformers
+- Machine learning & deep learning fundamentals
+- Neural networks, CNNs, transformers
+- Reinforcement learning
+- Computer vision
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
