@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kinshuk 👋</h1>
+<h1 align="center">Hi, I'm Kinshuk </h1>
 
 <p align="center">
 A 10th grade student at Cavelero Mid High who loves coding and is obsessed with understanding how AI actually works — not just using it.
@@ -15,7 +15,7 @@ A 10th grade student at Cavelero Mid High who loves coding and is obsessed with 
 
 ---
 
-## 🧠 About Me
+##   About Me
 
 I'm a high school student learning to build things in Python, C++, and Java, and slowly working my way into machine learning from the ground up.
 
@@ -28,7 +28,7 @@ I'm a high school student learning to build things in Python, C++, and Java, and
 
 ---
 
-## ⚡ Interests
+##   Interests
 
 - Machine learning & deep learning fundamentals
 - Neural networks, CNNs, transformers
