@@ -19,7 +19,7 @@ A 10th grade student at Cavelero Mid High who loves coding and is obsessed with 
 
 I'm a high school student learning to build things in Python, C++, and Java, and slowly working my way into machine learning from the ground up.
 
-### 🔭 Currently Working On
+###   Currently Working On
 - Building neural networks from scratch (just math + NumPy, no frameworks)
 - Learning how LLMs actually work — tokenization, attention, transformer architecture
 - Experimenting with reinforcement learning basics
