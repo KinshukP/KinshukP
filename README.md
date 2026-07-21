@@ -4,6 +4,9 @@
 A 10th grade student at Cavelero Mid High who loves coding and is obsessed with understanding how AI actually works — not just using it.
 </p>
 
+<p align="center"><i>"An idiot admires complexity, a genius admires simplicity."</i><br>
+— Terry A. Davis</p>
+
 <p align="center">
   <a href="mailto:kinshukp07@gmail.com">
     <img src="https://img.shields.io/badge/Email-kinshukp07%40gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
@@ -15,11 +18,11 @@ A 10th grade student at Cavelero Mid High who loves coding and is obsessed with 
 
 ---
 
-##   About Me
+## About Me
 
 I'm a high school student learning to build things in Python, C++, and Java, and slowly working my way into machine learning from the ground up.
 
-###   Currently Working On
+### Currently Working On
 - Building neural networks from scratch (just math + NumPy, no frameworks)
 - Learning how LLMs actually work — tokenization, attention, transformer architecture
 - Experimenting with reinforcement learning basics
@@ -28,7 +31,7 @@ I'm a high school student learning to build things in Python, C++, and Java, and
 
 ---
 
-##   Interests
+## Interests
 
 - Machine learning & deep learning fundamentals
 - Neural networks, CNNs, transformers
@@ -36,4 +39,3 @@ I'm a high school student learning to build things in Python, C++, and Java, and
 - Computer vision
 
 ---
-
