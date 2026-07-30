@@ -18,9 +18,6 @@ A 10th grade student at Cavelero Mid High who loves coding and is obsessed with 
 
 ---
 
-## About Me
-
-I'm a high school student learning to build things in Python, C++, and Java, and slowly working my way into machine learning from the ground up.
 
 ### Currently Working On
 - Building neural networks from scratch (just math + NumPy, no frameworks)
@@ -31,14 +28,6 @@ I'm a high school student learning to build things in Python, C++, and Java, and
 
 ---
 
-## Interests
-
-- Machine learning & deep learning fundamentals
-- Neural networks, CNNs, transformers
-- Reinforcement learning
-- Computer vision
-
----
 ## 💻 Tech Stack
 
 ### 🐍 Languages
