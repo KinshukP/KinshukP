@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kinshuk </h1>
 
 <p align="center">
-A 10th grade student at Cavelero Mid High who loves coding and is obsessed with understanding how AI actually works — not just using it.
+A 10th grade student at Lake Stevens Highschool who loves coding and is obsessed with understanding how AI actually works — not just using it.
 </p>
 
 <p align="center"><i>"An idiot admires complexity, a genius admires simplicity."</i><br>
